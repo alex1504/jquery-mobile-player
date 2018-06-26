@@ -101,8 +101,8 @@ function EventHandler() {
     
 }
 // 调用入口函数
- main();
- ```
+main();
+```
 
 # 功能点详解 #
 ## Handlebar.js初次渲染及滚动加载 ##
