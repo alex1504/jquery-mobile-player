@@ -1,7 +1,7 @@
 # 项目说明
 ![UI图](http://huzerui.com/blog/img/post/2016-10-30-how-to-make-a-mobile-html5-player.jpg)
 
-项目完成于一年前，那时候刚刚了解前端，jQuery似乎是成为了必会的工具，为了提升实战能力于是做了此案例，由于项目包含的MP3文件较大，github仓库移除了res文件夹，完整项目文件见[码云仓库地址](https://gitee.com/alex1504/jquery-mobile-player)，希望该教程对新人有所启发。
+项目完成于2016年，那时候刚刚了解前端，jQuery似乎是成为了必会的工具，为了提升实战能力于是做了此案例，由于项目包含的MP3文件较大，github仓库移除了res文件夹，完整项目文件见[码云仓库地址](https://gitee.com/alex1504/jquery-mobile-player)，希望该教程对新人有所启发。
 
 预览地址：请猛击[这里](http://alex1504.gitee.io/jquery-mobile-player)
 
